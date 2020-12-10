@@ -8,4 +8,3 @@ def display_board
   puts row = "-----------"
   puts row = " #{board[6]} |  #{board[7]} | #{board[8]}  "
 end
-
